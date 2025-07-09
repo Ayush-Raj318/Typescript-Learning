@@ -1,7 +1,4 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-// Type annotation
+// isi dandaa ko union kehte hai
 let a;
-a = 12;
-a = true;
-a = "harsh";
